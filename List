@@ -1,0 +1,52 @@
+Projects
+1. Digital Marketing Report
+Developed a 30-slide presentation and analyzed four Excel files to examine LinkedIn KPIs and identify improvement areas.
+Calculated future RER levels and used pivot tables to visualize key metrics.
+2. Backorder Report
+Cleaned and analyzed data on backorders from 2019 to 2023, identifying trends and automating graphs for year-over-year analysis.
+Filtered data for 683 rows to streamline error tracking for the Sales Director.
+3. CLC Pricing Analysis
+Used VLOOKUP with conditional formatting to detect pricing discrepancies in a 200-row dataset, ensuring accuracy in the customer pricing list.
+4. Competitor Analysis (Eiken vs Diazyme)
+Conducted a comparative analysis between Diazyme's products and a competitor’s, focusing on factors such as method type, sample requirements, and precision.
+5. Trend Analysis for Sales
+Cleaned over 60,000 rows of data and updated 2023 sales records, tagging entries for relevance to COVID, country, etc.
+Automated data updates with VLOOKUP and pivot tables, streamlining quarterly reporting.
+6. Registration Request Log
+Developed an automated system to track 1,000+ requests, including status and assignment details.
+Created pivot charts and automated graphs to monitor product requests and department workloads.
+7. Kit Stock Report
+Monitored stock levels with conditional formatting to flag items below safety thresholds and tracked product expiration dates.
+Automated quarterly comparisons with pivot tables for dynamic updates.
+8. Sales Report
+Updated and automated corporate sales reporting using VLOOKUP and pivot tables for monthly and quarterly accuracy.
+9. OxLDL Presentation
+Produced a 12-slide presentation on the importance of OxLDL testing for physicians and patients.
+Designed a one-page document and pamphlet in Canva for educational outreach.
+10. CMS Excel Tool
+Consolidated data from five reimbursement spreadsheets into one automated Excel file with VLOOKUP and VBA macros.
+Added dropdown search functionality for easy access to product reimbursement information.
+11. Registration + Trend Analysis
+Analyzed sales data across regions using registration logs and trends for each product by country.
+Created filterable views for customer, product, country, and sales value.
+12. AACC Trade Show Report
+Managed customer interactions and product promotion, creating a report based on keyword frequency and client interest tracking.
+13. ROI CMS Excel
+Automated calculations for government reimbursement prices since 2018 using VLOOKUP and pivot tables.
+Integrated VBA for dropdown selection of products, simplifying the retrieval of reimbursement data.
+14. New Accounts Tracker
+Built a pivot chart to track new, lost, and existing accounts quarterly, utilizing formulas to classify account status.
+Used slicers to dynamically adjust views by salesperson and automate quarterly comparisons.
+15. Account Upsell Analysis
+Created an automated report comparing current sales by salesperson with previous years using VLOOKUP and pivot charts.
+16. Product Expiration Alerts
+Set up conditional formatting to alert on products nearing expiration, with intervals at three and six months.
+Automated average sales tracking for safety stock comparisons.
+17. LinkedIn KPIs Analysis
+Analyzed LinkedIn post performance to identify patterns and predict KPI outcomes, achieving a low average error rate of 0.46% with linear regression.
+18. Updated Pricing List
+Used conditional formatting and VLOOKUP to detect and highlight errors in updated pricing lists.
+19. Pivot Chart Automation for Requests
+Organized over 1,000 document requests into an automated chart, tracking unique requests and providing visual insights on status and department distribution.
+20. Product List for Snibe and YHLO
+Created an organized product list for markers and categories, including quantities, pricing, and order information.
